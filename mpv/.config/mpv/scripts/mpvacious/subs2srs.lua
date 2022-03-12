@@ -1,0 +1,1 @@
+/home/amaterasu/.dotfiles/.submodules/mpvacious/subs2srs.lua

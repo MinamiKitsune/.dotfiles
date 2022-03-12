@@ -1,0 +1,1 @@
+/home/amaterasu/.dotfiles/.submodules/mpvacious/osd_styler.lua

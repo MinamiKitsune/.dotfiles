@@ -1,0 +1,6 @@
+[submodule ".submodules/mpvacious"]
+	path = .submodules/mpvacious
+	url = https://github.com/MinamiKitsune/mpvacious
+[submodule ".submodules/mpv-sub-scripts"]
+	path = .submodules/mpv-sub-scripts
+	url = https://github.com/MinamiKitsune/mpv-sub-scripts

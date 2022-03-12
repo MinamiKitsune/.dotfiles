@@ -1,0 +1,1 @@
+/home/amaterasu/.dotfiles/.submodules/mpv-sub-scripts/sub-pause.lua
